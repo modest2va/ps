@@ -1,0 +1,5 @@
+n=int(input())
+a=int(input())
+if n>=3 and a<=4: print("TroyMartian")
+if n<=6 and a>=2: print("VladSaturnian")
+if n<=2 and a<=3: print("GraemeMercurian")
